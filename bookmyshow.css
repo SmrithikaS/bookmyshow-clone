@@ -1,0 +1,151 @@
+/* html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+} */
+#logo{
+    width: 115px;
+    height: 40px;
+    position: relative;
+    left:100px;
+    top:10px;
+}
+
+#search{
+    width: 530px;
+    height: 30px;
+    position: relative;
+    top: -7px;
+    left: 120px;
+    font-size: 15px;
+    border: 1px solid #ccced0;
+    border-radius: 5px;
+}
+
+#searchicon{
+    position: relative;
+    top: -2px;
+    left: -413px;
+    color: #646e7d;
+    font-size: 20px;
+}
+
+#dropdown{
+    position: relative;
+    top: -9px;
+    right: -420px; 
+    border: none;
+    font-size: 14px;
+}
+
+#signin{
+    background-color:#e6546f;
+    position: relative;
+    top:-10px;
+    left:455px;
+    color: white;
+    border: none;
+    height: 25px;
+    width:66px;
+    border-radius: 5px;
+    font-size: 11px;
+}
+
+#menuicon{
+    position: relative;
+    top:-1px;
+    left:480px;
+    font-size: 28px;
+    color: #292e34;   
+}
+
+.list1 li{
+    display: inline;
+    padding: 6px;
+    position: relative;
+    left:65px;
+}
+
+.list1 li a{
+    color: #2b2f35;
+    text-decoration: none; 
+    font-size: 17px;
+}
+
+.list2 li{
+    display: inline;
+    padding: 10px 5px;
+    position: relative;
+    top:-32px;
+    left:999px;
+}
+
+.list2 li a{
+    color: #292e34;
+    text-decoration: none; 
+    font-size: 14px;
+}
+
+#carasole-img{
+    width: 1400px;
+    height:300px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 30px;
+}
+
+#movies{
+    font-size: 25px;
+    letter-spacing: 1px;
+    position: relative;
+    top: -28px;
+    left:60px;
+    color: #363c41;
+}
+#see{
+    font-size: 15px;
+    color: #e6546f;
+    position: relative;
+    top:-80px;
+    left:1240px;
+}
+.recomendation{
+    padding: 40px;
+}
+#imagem{
+     width:230px;
+    height: 370px;
+    border-radius: 15px;
+}
+
+.movie1{
+  position: relative;      
+  display: inline-block;   
+  padding: 5px;
+  top: -80px;
+  left: 150px;
+  
+}
+
+.movie1 h3{
+    position: relative;
+    top: 2px;      
+    left: 30px;          
+    font-size: 20px;
+    color: #0b0b0b;
+}
+.movie1 h4 {
+    position: relative;
+    top: -120px;           
+    left: 60px;           
+    font-size: 18px;
+    color: #777;
+}
+/* #nav{
+    position: relative;
+    top:-290px;
+    left:10px;
+    color: rgb(107, 105, 105);
+    background-color: #0d0f11;
+    font-size: 50px;
+    border-radius: 60px;
+} */
